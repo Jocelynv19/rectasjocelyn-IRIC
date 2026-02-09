@@ -1,0 +1,25 @@
+
+<link rel="stylesheet" href="css/bootstrap.min.css">
+<link rel="stylesheet" href="css/estilos.css">
+
+
+/* Navbar */
+.navbar {
+  background-color: #4b0082 !important; /* morado */
+}
+
+/* Botones principales */
+.btn-danger {
+  background-color: #b361ff;
+  border-color: #efff61;
+}
+
+/* Títulos */
+h1, h2 {
+  color: #ffffff;
+}
+
+/* Fondo general */
+body {
+  background-color: #000000;
+}
